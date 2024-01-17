@@ -57,3 +57,38 @@ h3 {
 .news-text span {
   padding: 0 15px;
 }
+
+/* Big-box */
+
+.big-box {
+  background-color: rgba(0, 255, 128, 0.927);
+  width: 500px;
+  height: auto;
+  padding: 120px 70px;
+  margin: 100px auto;
+  border-radius: 10px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.heading {
+  font-size: 3rem;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-weight: bold;
+}
+
+.sm-text {
+  margin-top: -20px;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.share-btn {
+  padding: 15px 50px;
+  margin-top: 15px;
+  background-color: white;
+  border: none;
+  font-size: 25px;
+  font-weight: 800;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  border-radius: 60px;
+}
