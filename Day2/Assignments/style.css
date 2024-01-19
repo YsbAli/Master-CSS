@@ -1,0 +1,36 @@
+* {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.product {
+  width: 450px;
+  padding: 14px;
+  margin: 40px auto;
+  border: 1px solid lightgray;
+  border-radius: 14px;
+  position: relative;
+}
+
+.img {
+  width: 100%;
+  border-radius: 14px;
+}
+
+.bedge {
+  position: absolute;
+  background-color: #fac9c9;
+  color: rgb(255, 239, 239);
+  padding: 1px 8px;
+  left: 25px;
+  top: 30px;
+  border-radius: 3px;
+}
+
+.offer {
+  position: absolute;
+  background-color: #1b2c64;
+  color: white;
+  padding: 1px 8px;
+  left: 25px;
+  bottom: 0;
+}
